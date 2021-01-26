@@ -1,6 +1,6 @@
 import random
 
-lolz = ["lol","lmao","rofl"]
-hehe = random.choice(loz)
+sed = ["sad","cri","sadge"]
+sedl = random.choice(sed)
 
-print(hehe)
+print(sedl)
