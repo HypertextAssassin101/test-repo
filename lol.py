@@ -1,5 +1,6 @@
 import random
 
-hehe = random.choice(["lol","lmao","rofl"])
+lolz = ["lol","lmao","rofl"]
+hehe = random.choice(loz)
 
 print(hehe)
